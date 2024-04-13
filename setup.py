@@ -35,10 +35,10 @@ setuptools.setup(
     },
     install_requires=[
         'polib>=1.1.0',
-        'googletrans>=3.0.0'
+        'googletrans>=3.1.0a0'
     ],
     setup_requires=[
         'polib>=1.1.0',
-        'googletrans>=3.0.0'
+        'googletrans>=3.1.0a0'
     ],
 )
