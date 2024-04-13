@@ -13,7 +13,7 @@ Usage
 ```python
 from translate_po.main import run
 
-run(fro="en" to="et" src="./untranslated" dest="./translated")
+run(fro="en", to="et", src="./untranslated", dest="./translated")
 ```
 
 ### Changelog
